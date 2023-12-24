@@ -4,7 +4,7 @@
   "description": "Batch updating code on svg to reflect A4E styling, license, and standards.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "mit": "node mit.js"
   },
   "keywords": [],
   "author": "",

@@ -1,0 +1,15 @@
+{
+  "name": "svg-batch-updater",
+  "version": "1.0.0",
+  "description": "Batch updating code on svg to reflect A4E styling, license, and standards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-xml-parser": "^4.3.2"
+  }
+}

@@ -6,11 +6,8 @@ A small program to parse, insert, and build svgs exported from Figma.  The inser
 
 ### Directions
 -Add svgs to /public/images
-
 -Run node mit.js
-
 -Files will be updated, added to /public/output, and deleted from /public/images
-
 -Sample svgs provided in /public/sampleInputs 
 
 

@@ -12,4 +12,5 @@ A small program to parse, insert, and build svgs exported from Figma.  The inser
     <li>Sample svgs provided in /public/sampleInputs</li>
 </ul>
 
-
+## License
+MIT License
